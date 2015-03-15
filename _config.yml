@@ -1,0 +1,24 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+exclude:             [README.md, LICENSE]
+title:               'Test Site'
+tagline:             'for ghpages-ghcomments'
+description:         'Test site for <a href="https://github.com/wireddown/ghpages-ghcomments">ghpages-ghcomments</a>'
+url:                 http://downtothewire.io
+baseurl:             /gpgc-test
+paginate:            5
+
+# About/contact
+author:
+  name:              Joe Friedrichsen
+  url:               http://downtothewire.io
+
+# Custom vars
+version:             1.0.0
