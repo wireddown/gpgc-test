@@ -5,7 +5,7 @@ title: What's Jekyll?
 
 ---
 
-## *NOTE: This is a test page*
+## *NOTE: This is a test page.*
 
 ---
 

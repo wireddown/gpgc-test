@@ -5,7 +5,7 @@ title: Introducing Lanyon
 
 ---
 
-## *NOTE: This is a test page*
+## *NOTE: This is a test page.*
 
 ---
 

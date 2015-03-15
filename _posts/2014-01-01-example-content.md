@@ -5,7 +5,7 @@ title: Example content
 
 ---
 
-## *NOTE: This is a test page*
+## *NOTE: This is a test page.*
 
 ---
 
